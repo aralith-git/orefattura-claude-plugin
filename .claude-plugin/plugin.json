@@ -1,0 +1,27 @@
+{
+  "name": "orefattura",
+  "displayName": "OreFattura",
+  "version": "0.1.0",
+  "description": "Collega Claude a OreFattura: registra le ore, chiudi il mese, prepara cosa fatturare, gestisci clienti, progetti e task. Ogni modifica è una proposta che confermi tu nell'app.",
+  "author": {
+    "name": "Simone Alessandrini"
+  },
+  "license": "MIT",
+  "keywords": [
+    "timesheet",
+    "fatturazione elettronica",
+    "SdI",
+    "freelance",
+    "partita IVA",
+    "gestione progetti",
+    "italiano"
+  ],
+  "homepage": "https://orefattura.cloud",
+  "privacyPolicyUrl": "https://orefattura.aralith.cloud/legale/privacy",
+  "mcpServers": {
+    "orefattura": {
+      "type": "http",
+      "url": "https://orefattura.cloud/mcp"
+    }
+  }
+}
